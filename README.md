@@ -30,3 +30,9 @@ Without the hard work of the above individuals and all the contributors to their
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+
+### Compilation Depends on following libraries
+* [HoloEverywhere v4.4.0](https://github.com/Prototik/HoloEverywhere/releases)
+* [NineOldAndroids v2.4.0](https://github.com/JakeWharton/NineOldAndroids/releases)
+* [drag-sort-listview v0.6.1](https://github.com/bauerca/drag-sort-listview/releases)
